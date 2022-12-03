@@ -1,2 +1,2 @@
-# skrypty
-Skrypty, których używam na codzień
+# Skrypty i skrypciki
+Skrypty, których używam codziennie
